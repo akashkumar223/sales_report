@@ -32,7 +32,7 @@ The raw CSV isn't included in this repo (Kaggle licensing) — download it from 
 - Sales peak in November–December, suggesting seasonal demand
 
 ## 📊 Dashboard
-![Dashboard Preview](dashboard/dashboard_screenshot.png)
+![Dashboard Preview](Screenshot 2026-09-19 123544.png)
 
 Run the interactive version locally:
 ```bash
